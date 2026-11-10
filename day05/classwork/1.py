@@ -1,0 +1,11 @@
+#1)გვერდზე მიუწერეთ რომელი მონაცემთა ტიპი არის 
+#test1 = "12" "string"
+#test2 = 24  "float"
+#test3 = "luka"   "string"
+#test4  = 24.1   "integer"
+#test5 = "luk2323a"  "string"
+#test6 = 1.2  "integer"
+#test7 = 14  "float"
+#test8 = "goa"  "string"
+#test9 = 13 "float"
+#test10 = 13.1  "integer"
